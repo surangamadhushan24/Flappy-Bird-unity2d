@@ -1,0 +1,70 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+Logs/
+
+# User settings
+UserSettings/
+
+# Project settings
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorUserBuildSettings.asset
+ProjectSettings/EditorUserSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/XRSettings.asset
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/UnityLockfile
+
+# Packages
+Packages/packages-lock.json
